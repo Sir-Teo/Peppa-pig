@@ -8,7 +8,7 @@ Drawing a Peppa pig with scheme turtle!
 ## How to run
 In the directory, type this in the command line
 ```
-$ python3 scheme.py contest.scm
+$ python3 scheme.py peppa_pig.scm
 ```
 The scheme turtle window should pop out, and the program runs.
 
