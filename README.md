@@ -1,4 +1,4 @@
-1:https://cs61a.org/proj/scheme_gallery/#peppaaaaaaa-pig
+[1]:https://cs61a.org/proj/scheme_gallery/#peppaaaaaaa-pig
 # Peppa-pig
 Drawing a Peppa pig with scheme turtle!
 
